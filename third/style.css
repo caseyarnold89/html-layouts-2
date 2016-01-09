@@ -1,0 +1,53 @@
+html, body {
+    font-family: Helvetica;
+    font-size: 14px;
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    background-color: #333333;
+    color: white;
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+}
+
+div {
+    width: 40%;
+    margin: 5%;
+    display: inline-block;
+}
+
+h1 {
+    margin-left: -2%;
+    font-size: 32pt; 
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: left;
+    width: 40%;
+}
+
+p {
+    margin-bottom: 5%;
+}
+
+.img {
+    background-color: lightgray;
+    height: 250px;
+    width: 100%;
+    margin: 0;
+}
+
+footer {
+    background-color: #333333;
+    padding: 30px;
+    clear: both;
+}
