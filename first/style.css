@@ -5,7 +5,12 @@
 }
 
 .tChild {
-    width: 500px;
+    width: 32%;
+    height: 250px;
+}
+
+.tChild2 {
+    width: 32%;
     height: 250px;
 }
 
