@@ -15,7 +15,6 @@
 
 .blue {
     background-color: #4A90E2;
-    margin: 0 25px;
 }
 
 .grey {
@@ -41,4 +40,24 @@ p {
 .child2 {
     flex: 2;
     margin: 0;
+}
+
+.footer {
+    margin-top: 25px;
+    width: 100%;
+    height: 250px;
+    display: flex;
+}
+
+.fChild1 {
+    flex: 14;
+    margin: 0;
+}
+
+.fChild2 {
+    flex: 1;
+}
+
+.fChild3 {
+    flex: 4;
 }
