@@ -1,0 +1,44 @@
+.topP {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.tChild {
+    width: 500px;
+    height: 250px;
+}
+
+.red {
+    background-color: #D0021B;
+}
+
+.blue {
+    background-color: #4A90E2;
+    margin: 0 25px;
+}
+
+.grey {
+    background-color: #4A4A4A;
+}
+
+p {
+    width: 100%;
+    padding-top:25px;
+    font-family: Arial;
+}
+
+.midContainer {
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+
+.child1 {
+    flex: 1;
+}
+
+.child2 {
+    flex: 2;
+    margin: 0;
+}
